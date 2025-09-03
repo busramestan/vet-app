@@ -12,7 +12,7 @@ const HeroTextContainer = () => {
       <div className="flex flex-col md:flex-row gap-4">
         <a
           href="/contact"
-          className="bg-orange-600 text-white px-8 py-3 rounded rounded-lg font-semibold hover:bg-orange-700 transition-colors text-center"
+          className="bg-orange-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-orange-700 transition-colors text-center"
         >
           Randevu Al
         </a>

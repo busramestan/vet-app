@@ -46,7 +46,7 @@ const Features = () => {
                   {feature.title}
                 </h3>
                 <p className="text-gray-600 leading-relaxed">
-                  {feature.description}{" "}
+                  {feature.description}
                 </p>
               </div>
             );

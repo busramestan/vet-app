@@ -12,13 +12,13 @@ Bu proje, tüm cihazlarda uyumlu çalışan, modern bir veteriner klinik web sit
 ## Ekran Görüntüleri
 
 ### Masaüstü Görünümü
-![Desktop Screenshot](src/assets/iPhone-13-PRO-localhost.png/)
+![Desktop Screenshot](src/assets/Macbook-Air-localhost.png)
 
 ### Tablet Görünümü
 ![Tablet Screenshot](src/assets/iPad-Air-4-localhost.png)
 
 ### Mobil Görünümü
-![Mobile Screenshot](src/assets/Macbook-Air-localhost.png)
+![Mobile Screenshot](src/assets/iPhone-13-PRO-localhost.png/)
 
 ## Kurulum
 
